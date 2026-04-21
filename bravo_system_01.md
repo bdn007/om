@@ -27,3 +27,22 @@ Fire and Gas Detectors are located throughout the platform depending on the risk
 - LIST OF F&G DETECTORS AND MAC POINTS ON THE BF ACCOMMODATION PLATFORM.
 - LIST OF F&G DETECTORS AND MAC POINTS ON THE BG UTILITY PLATFORM
 
+## 2. SYSTEM / EQUIPMENT DETAILED DESCRIPTION
+
+### 2.1. FGS DESCRIPTION AND PRINCIPLES
+
+#### 2.1.1. Fire Zones
+
+Fire zones are areas within the installation where equipment is grouped by nature and/or homogeneous level of risk attached to it. The partition into the fire zones is such that the consequences of a fire, a flammable gas leak, or an explosion corresponding to the credible event likely to occur in the concerned fire zone, do not impact other fire zones to an extent where their integrity could be put at risk.
+Firewalls are provided to separate:
+- The Process and Wellhead areas.
+- Switchgear and Transformer Room and Process Area.
+These firewalls provide an effective barrier to the passage of fire and smoke for a minimum period of 30 minutes in case of a hydrocarbon pool or jet fire.
+B-Location is divided into the following fire zones and subzones for detection of Fire/Gas/Manual Call Point Activation etc.
+Refer to Ref. [112].
+- BA Wellhead Platform:
+  
+| Cellar Deck | 01 | 01 Wellhead Area |
+| 01 | 02 Launcher/Receiver Area |
+| 02 | 01 Processing Area |
+| 03 | 01 Utilities Area |
